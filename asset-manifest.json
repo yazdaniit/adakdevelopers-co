@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/adakdevelopers-co/static/css/main.751915bb.css",
+    "main.js": "/adakdevelopers-co/static/js/main.ce45f9a5.js",
+    "static/media/geps.png": "/adakdevelopers-co/static/media/geps.f0d09b980ac37072648b.png",
+    "static/media/protergia.png": "/adakdevelopers-co/static/media/protergia.84e44dcb30518909b9b1.png",
+    "static/media/consultation.svg": "/adakdevelopers-co/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
+    "static/media/web-dev.svg": "/adakdevelopers-co/static/media/web-dev.fd61237124f5b922e412437caf61ea58.svg",
+    "static/media/kws.png": "/adakdevelopers-co/static/media/kws.7c9acff8ffcb21c44181.png",
+    "static/media/hosting.svg": "/adakdevelopers-co/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
+    "static/media/app.svg": "/adakdevelopers-co/static/media/app.3d550d02d3409ad587451a91e97e78fb.svg",
+    "static/media/Web-developer.svg": "/adakdevelopers-co/static/media/Web-developer.6c7276fff94ccaae45617195f0ef27ae.svg",
+    "static/media/footer.svg": "/adakdevelopers-co/static/media/footer.70b54bbe52a797ce69c1.svg",
+    "static/media/web.svg": "/adakdevelopers-co/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
+    "index.html": "/adakdevelopers-co/index.html",
+    "static/media/hero-bg.svg": "/adakdevelopers-co/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
+    "main.751915bb.css.map": "/adakdevelopers-co/static/css/main.751915bb.css.map",
+    "main.ce45f9a5.js.map": "/adakdevelopers-co/static/js/main.ce45f9a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.751915bb.css",
+    "static/js/main.ce45f9a5.js"
+  ]
+}
