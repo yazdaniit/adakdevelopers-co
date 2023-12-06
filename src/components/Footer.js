@@ -27,7 +27,7 @@ const Footer = () => {
               <ul className="text-md">
                 <li className="mb-2">
                   <HashLink
-                    to="#"
+                    to="/#"
                     className="text-[#013289] hover:text-gray-900 transition duration-250 ease-in-out"
                   >
                     درباره ما
@@ -35,7 +35,7 @@ const Footer = () => {
                 </li>
                 <li className="mb-2">
                   <HashLink
-                    to="#services"
+                    to="/#services"
                     className="text-[#013289] hover:text-gray-900 transition duration-250 ease-in-out"
                   >
                     خدمات
@@ -43,7 +43,7 @@ const Footer = () => {
                 </li>
                 <li className="mb-2">
                   <HashLink
-                    to="#contact"
+                    to="/contact"
                     className="text-[#013289] hover:text-gray-900 transition duration-250 ease-in-out"
                   >
                     تماس باما

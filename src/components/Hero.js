@@ -21,7 +21,7 @@ const Hero = () => {
               data-aos="zoom-in"
               data-aos-delay="200"
             >
-              <h1 className="mb-5 md:text-5xl text-3xl font-bold text-blue-900 text-right leading-[4rem]">
+              <h1 className="mb-5 md:text-5xl text-3xl font-bold text-blue-900 text-right !leading-[4.5rem]">
                 راه حل های نرم افزاری سفارشی برای نیازهای تجاری منحصر به فرد شما
               </h1>
               <div className="text-xl font-semibold tracking-tight mb-5 text-gray-500 text-right leading-10">
