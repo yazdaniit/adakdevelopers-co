@@ -9,7 +9,7 @@ import Contact from "./pages/Contact";
 import DemoProduct from "./pages/DemoProduct";
 
 import { useDocTitle } from "./components/CustomHook";
-import ScrollToTop from "./components/ScrollToTop";
+// import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   useEffect(() => {
@@ -26,18 +26,16 @@ function App() {
     });
   }, []);
 
-  useDocTitle("ADAK .CO");
+  useDocTitle("AdakDevelopers");
 
   return (
     <>
       <Router>
-        <ScrollToTop>
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/contact" element={<Contact />} />
-            <Route path="/get-demo" element={<DemoProduct />} />
-          </Routes>
-        </ScrollToTop>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/get-demo" element={<DemoProduct />} />
+        </Routes>
       </Router>
     </>
   );

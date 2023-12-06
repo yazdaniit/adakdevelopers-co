@@ -10,14 +10,14 @@ const Services = () => {
       <section data-aos="zoom-in-down">
         <div className="my-4 py-4">
           <h2 className="my-2 text-center text-3xl text-blue-900 uppercase font-bold">
-            services
+            خدمات
           </h2>
 
           <div className="flex justify-center">
             <div className="w-24 border-b-4 border-blue-900"></div>
           </div>
           <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold text-blue-900">
-            We are deeply committed to the growth and success of our clients.
+            ما عمیقاً متعهد به رشد و موفقیت مشتریان خود هستیم
           </h2>
         </div>
 
@@ -31,13 +31,13 @@ const Services = () => {
                   src={img}
                 />
                 <h2 className="font-semibold my-4 text-2xl text-center">
-                  Web Development
+                  توسعه وب‌سایت
                 </h2>
                 <p className="text-md font-medium">
-                  We specialize in creating and optimizing high-quality, custom
-                  websites for businesses and organizations of all sizes.
-                  Building mobile-friendly and easy-to-use websites and
-                  applications for clients.
+                  ما در ایجاد و بهینه سازی با کیفیت بالا و سفارشی تخصص داریم وب
+                  سایت برای مشاغل و سازمان ها در هر اندازه. ساخت وب سایت های
+                  سازگار با موبایل و آسان برای استفاده و برنامه های کاربردی برای
+                  مشتریان
                 </p>
               </div>
             </div>
@@ -50,12 +50,12 @@ const Services = () => {
                   src={img2}
                 />
                 <h2 className="font-semibold my-4 text-2xl text-center">
-                  Mobile App Development
+                  توسعه اپلیکیشن موبایل
                 </h2>
                 <p className="text-md font-medium">
-                  We develop high-quality, custom cross-platform mobile
-                  applications that are robust and optimized for performance,
-                  scalability, and accessibility.
+                  ما موبایل با کیفیت بالا و سفارشی چند پلتفرمی را توسعه می دهیم
+                  برنامه هایی که قوی و برای عملکرد بهینه شده اند، مقیاس پذیری و
+                  دسترسی
                 </p>
               </div>
             </div>
@@ -68,12 +68,11 @@ const Services = () => {
                   src={img3}
                 />
                 <h2 className="font-semibold my-4 text-2xl text-center ">
-                  Domain and Hosting Services
+                  دامنه و خدمات میزبانی
                 </h2>
                 <p className="text-md font-medium">
-                  We provide domain registration and web hosting services to
-                  individuals and organizations to enable them gain visibility
-                  in the digital space.
+                  ما خدمات ثبت دامنه و میزبانی وب را به شما ارائه می دهیم افراد
+                  و سازمان‌ها را قادر می‌سازد تا دیده شوند در فضای دیجیتال
                 </p>
               </div>
             </div>
@@ -86,12 +85,12 @@ const Services = () => {
                   src={img4}
                 />
                 <h2 className="font-semibold my-4 text-2xl text-center ">
-                  General IT Consultations
+                  مشاوره عمومی IT
                 </h2>
                 <p className="text-md font-medium">
-                  Our IT consultations service provides expert guidance and
-                  support for businesses and individuals looking to optimize
-                  their technology solutions.
+                  خدمات مشاوره فناوری اطلاعات ما راهنمایی های متخصص و پشتیبانی
+                  از مشاغل و افرادی که به دنبال بهینه سازی هستند راه حل های
+                  فناوری آنها
                 </p>
               </div>
             </div>
@@ -118,19 +117,15 @@ const Services = () => {
                   <path d="M12 7.462c-2.502 0-4.538 2.036-4.538 4.538S9.498 16.538 12 16.538s4.538-2.036 4.538-4.538S14.502 7.462 12 7.462zm0 7.076c-1.399 0-2.538-1.139-2.538-2.538S10.601 9.462 12 9.462s2.538 1.139 2.538 2.538-1.139 2.538-2.538 2.538z"></path>
                 </svg>
               </div>
-              <h3
-                className="text-3xl  text-blue-900 
-                            font-bold"
-              >
-                We <span className="font-black">Build</span>
+              <h3 className="text-3xl  text-blue-900 font-bold text-right">
+                ما <span className="font-black">می‌سازیم</span>
               </h3>
               <div>
-                <p className="my-3 text-xl text-gray-600 font-semibold">
-                  With over 10 years experience in software analysis and design
-                  and a deep understanding of the latest IT trends and
-                  solutions, we provide customized recommendations and
-                  strategies to help you improve your operations, reduce costs,
-                  and increase efficiency.
+                <p className="my-3 text-xl text-gray-600 font-semibold text-right">
+                  با بیش از 5 سال تجربه در تحلیل و طراحی نرم افزار و درک عمیق از
+                  آخرین روندهای فناوری اطلاعات و راه حل ها، ما توصیه های سفارشی
+                  و استراتژی هایی برای کمک به شما در بهبود عملیات، کاهش هزینه
+                  ها، و افزایش کارایی
                 </p>
               </div>
             </div>
@@ -146,15 +141,15 @@ const Services = () => {
                   <path d="m7.375 16.781 1.25-1.562L4.601 12l4.024-3.219-1.25-1.562-5 4a1 1 0 0 0 0 1.562l5 4zm9.25-9.562-1.25 1.562L19.399 12l-4.024 3.219 1.25 1.562 5-4a1 1 0 0 0 0-1.562l-5-4zm-1.649-4.003-4 18-1.953-.434 4-18z"></path>
                 </svg>
               </div>
-              <h3 className="text-3xl  text-blue-900 font-bold">
-                We <span className="font-black">Collaborate</span>
+              <h3 className="text-3xl  text-blue-900 font-bold text-right">
+                ما <span className="font-black">همکاری می‌کنیم</span>
               </h3>
               <div>
-                <p className="my-3 text-xl text-gray-600 font-semibold">
-                  We can collaborate with your existing tech team to scale
-                  existing software applications or design customized software
-                  applications that suits your everyday need and simplifies
-                  various processes.
+                <p className="my-3 text-xl text-gray-600 font-semibold text-right">
+                  ما می‌توانیم با تیم فناوری موجود شما برای مقیاس‌بندی همکاری
+                  کنیم برنامه های نرم افزاری موجود یا طراحی نرم افزار سفارشی
+                  برنامه هایی که با نیاز روزمره شما مطابقت دارد و ساده می کند
+                  فرآیندهای مختلف
                 </p>
               </div>
             </div>

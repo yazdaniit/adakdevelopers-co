@@ -23,11 +23,11 @@ const NavBar = () => {
         !top && "bg-white shadow-lg"
       }`}
     >
-      <div className="flex flex-row justify-between items-center py-2">
+      <div className="flex flex-row justify-between items-center pt-0 pb-2">
         <div className="flex flex-row justify-center md:px-12 md:mx-12 items-center text-center font-semibold">
           <Link to="/">
             <h1 className="font-extrabold text-4xl text-blue-900">
-              ADAK-DEVELOPERS
+              AdakDevelopers
             </h1>
           </Link>
         </div>
