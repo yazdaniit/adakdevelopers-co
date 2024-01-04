@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import DemoProduct from "./pages/DemoProduct";
-import Maintenance from "./pages/under-construction/Maintenance";
+// import Maintenance from "./pages/under-construction/Maintenance";
 
 import { useDocTitle } from "./components/CustomHook";
 // import ScrollToTop from "./components/ScrollToTop";
@@ -36,7 +36,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/get-demo" element={<DemoProduct />} />
-          <Route path="/maintenance" element={<Maintenance />} />
+          {/* <Route path="/maintenance" element={<Maintenance />} /> */}
         </Routes>
       </Router>
     </>

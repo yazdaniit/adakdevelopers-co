@@ -5,12 +5,12 @@ import { HashLink } from "react-router-hash-link";
 const NavLinks = () => {
   return (
     <>
-      <HashLink
-        className="px-4 font-extrabold text-gray-500 hover:text-blue-900"
-        to="https://yazdaniit.github.io/under-construction.github.io/"
+      <a
+        className="px-4 font-extrabold text-gray-500 hover:text-blue-900 "
+        href="https://yazdaniit.github.io/under-construction.github.io/"
       >
         صفحه درحال توسعه
-      </HashLink>
+      </a>
       <HashLink
         className="px-4 font-extrabold text-gray-500 hover:text-blue-900"
         to="/#"
