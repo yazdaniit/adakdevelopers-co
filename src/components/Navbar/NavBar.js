@@ -27,7 +27,7 @@ const NavBar = () => {
         <div className="flex flex-row justify-center md:px-12 md:mx-12 items-center text-center font-semibold">
           <Link to="/">
             <h1 className="font-extrabold text-4xl text-blue-900">
-              AdakDevelopers
+              محتوای وب سایت آزمایشی!
             </h1>
           </Link>
         </div>
